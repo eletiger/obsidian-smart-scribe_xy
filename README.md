@@ -23,6 +23,8 @@ An Obsidian plugin that uses AI to intelligently generate titles, tags, categori
 | Qwen | Alibaba Tongyi Qwen | qwen-plus |
 | Zhipu AI | Zhipu GLM | glm-4 |
 | Spark | Xunfei Spark | pro |
+| Ollama | Ollama | llama2 |
+| LM Studio | LM Studio | lm-studio |
 
 ## Features
 
